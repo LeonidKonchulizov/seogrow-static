@@ -1,8 +1,8 @@
 @font-face {font-family: "ETmoudles";
-    src: url("../font/9d25ea5c587d0f9d470aa9a3634735ea.eot"); /* IE9*/
-    src: url("../font/9d25ea5c587d0f9d470aa9a3634735ea.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("../font/9d25ea5c587d0f9d470aa9a3634735ea.woff2") format("woff2"), /* chrome、firefox */
-    url("../font/9d25ea5c587d0f9d470aa9a3634735ea.woff") format("woff"), /* chrome、firefox */
-    url("../font/9d25ea5c587d0f9d470aa9a3634735ea.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-    url("../font/9d25ea5c587d0f9d470aa9a3634735ea.svg#ETmoudles") format("svg"); /* iOS 4.1- */
+    src: url("../font/et-font.eot"); /* IE9*/
+    src: url("../font/et-font.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../font/et-font.woff2") format("woff2"), /* chrome、firefox */
+    url("../font/et-font.woff") format("woff"), /* chrome、firefox */
+    url("../font/et-font.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url("../font/et-font.svg#ETmoudles") format("svg"); /* iOS 4.1- */
 }
